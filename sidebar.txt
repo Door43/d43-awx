@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awx:home|Door43 (awx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awx|d43-awx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awx/archive/master.zip|d43-awx.zip]]
+
+**Recent Changes**
+{{changes>ns = awx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awx|Ethnologue data]]
+
